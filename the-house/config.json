@@ -1,0 +1,14 @@
+{
+  "camera": "pi",
+  "sensor": "beam",
+  "templates": "templates",
+  "resolution": [1280, 720],
+  "roi": [100, 100, 120, 200],
+  "exposure_us": 400,
+  "gain": 4.0,
+  "colour_gains": [1.5, 1.5],
+  "beam_pin": 17,
+  "trigger_delay_s": 0.0,
+  "timeout_s": 3.0,
+  "min_margin": 0.02
+}

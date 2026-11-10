@@ -1,0 +1,20 @@
+{
+  "camera": "webcam",
+  "sensor": "keyboard",
+  "templates": "templates_laptop",
+  "webcam_index": 0,
+  "flip": "horizontal",
+  "resolution": [
+    1280,
+    720
+  ],
+  "roi": [
+    189,
+    55,
+    94,
+    120
+  ],
+  "trigger_delay_s": 0.0,
+  "timeout_s": null,
+  "min_margin": 0.02
+}

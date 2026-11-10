@@ -1,0 +1,4 @@
+opencv-python-headless
+numpy
+scipy
+# On the Pi, install these with apt: sudo apt install python3-picamera2 python3-gpiozero
